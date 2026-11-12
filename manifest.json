@@ -1,23 +1,17 @@
 {
   "name": "Malik Branded Sale POS",
   "short_name": "Malik POS",
-  "start_url": "./malik_pos.html",
+  "start_url": "./malik_pos%20(1).html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#0f172a",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "https://abuhamza212036-code.github.io/Malik-pos/icon-192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
+
